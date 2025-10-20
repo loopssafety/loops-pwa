@@ -568,7 +568,7 @@ function Home(): JSX.Element {
       <div className="mt-8 text-center">
         <div className="inline-flex items-center bg-gradient-to-r from-gray-800 to-gray-900 text-white px-4 py-2 rounded-full text-sm">
           <i className="fas fa-architecture mr-2" />
-          Built on Revolutionary Enhanced Architecture • Production Ready
+          Developed by Jade Yeates
         </div>
       </div>
     </div>
